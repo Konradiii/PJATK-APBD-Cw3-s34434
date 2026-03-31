@@ -1,0 +1,14 @@
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\bin\Debug\net9.0\LinqConsoleLab.PL.exe
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\bin\Debug\net9.0\LinqConsoleLab.PL.deps.json
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\bin\Debug\net9.0\LinqConsoleLab.PL.runtimeconfig.json
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\bin\Debug\net9.0\LinqConsoleLab.PL.dll
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\bin\Debug\net9.0\LinqConsoleLab.PL.pdb
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.AssemblyInfoInputs.cache
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.AssemblyInfo.cs
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.csproj.CoreCompileInputs.cache
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.dll
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\refint\LinqConsoleLab.PL.dll
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.pdb
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\LinqConsoleLab.PL.genruntimeconfig.cache
+C:\Users\konra\Desktop\SZKOŁA\Semestr 4\APBD\apbd_cw3\LinqConsoleLab.PL\LinqConsoleLab.PL\obj\Debug\net9.0\ref\LinqConsoleLab.PL.dll
